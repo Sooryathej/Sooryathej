@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sooryathej
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me? sootyathej.7b@gmail.com
+- 📫 How to reach me? sooryathej.7b@gmail.com
 
 <!---
 Sooryathej/Sooryathej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
